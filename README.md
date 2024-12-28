@@ -1,7 +1,7 @@
 # HUDCO
 it is a hotel_management server or system where the details of all the hotels there room are saved and according to that customers are given their respective rooms and hotel and their details are saved automatically 
 **Project Title: Hotel Management System**
-~Description:~
+Description:
 The Hotel Management System is a Python-based project integrated with MySQL for database management. It is designed to streamline the operations of a hotel by allowing an organization to manage hotel details, room availability, employee bookings, and payment methods efficiently.
 
 Key Features:
